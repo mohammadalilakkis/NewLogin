@@ -1,4 +1,7 @@
 package sample;
+/**
+ * @author mohammad ali lakkis
+ */
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
